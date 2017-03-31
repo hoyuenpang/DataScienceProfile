@@ -1,5 +1,5 @@
 # DataScienceProfile
-Some of programs and data from data science online course quizzes I took. It is a good example to show what I know
+Some of programs and data from data science online course quizzes I took. THis showcases what I know
 
 ----------------------------
 
@@ -30,7 +30,25 @@ Albuquerque_Weather.py read in c90b2d1a390d0c37060efd9692871c1da343f617720b7a614
 
 UNM_Sports.py
 
-UNM_Sports.py read LobosFootball.csv and LobosBasketsball.csv. These two csv files contains season win percentage from 1950 to 2016. I use a 10 year moving average to identify any major trends in the team’s win percentages. 10 year moving average is calculate using Excel. The plot is saved as UNM_Sports.png. The plot of 10 year moving average of win percentage from 1959 to 2016 shows that the UNM football and the UNM basketball have a negative correlation. The better basketball team win percentage is, the worst football team win percentage is. And vice versa. This supports my hypothesis. The UNM can only support one winning program in sports. 
+Idea of this class project:
+
+Albuquerque is a small town. Only big sports teams are University of 
+New Mexico Football team and Basketball team. Since UNM is a small school, 
+low in academic and sports reputation, and lack of funding for sports. 
+It cannot devote enough resource for recruiting both top high school football 
+players and top high school basketball players. Funding issue also affects
+recruting top football coaching staff and top basketball coaching staff.
+Top prospects normally prefer top sports school or top academic 
+college. 
+
+My hypothesis is that if 
+UNM builds a good football program, UNM basketball program will suffer. If 
+UNM builds a good basketball  program, UNM football program will suffer.
+
+This can be seen in a 10 year moving average plot for last 50 years
+
+
+UNM_Sports.py read LobosFootball.csv and LobosBasketsball.csv. These two csv files contains season win percentage from 1950 to 2016. I use a 10 year moving average to identify any major trends in the team’s win percentages. 10 year moving average is calculated using Excel. The plot is saved as UNM_Sports.png. The plot of 10 year moving average of win percentage from 1959 to 2016 shows that the UNM football and the UNM basketball have a negative correlation. The better basketball team win percentage is, the worst football team win percentage is. And vice versa. This supports my hypothesis. The UNM can only support one winning program in sports. 
 
 
 
